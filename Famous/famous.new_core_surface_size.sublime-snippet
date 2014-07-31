@@ -1,10 +1,11 @@
 <snippet>
 	<content><![CDATA[
 var ${1:surface} = new Surface({
-    content: '${2}'${3}
+	size: [${2:100}. ${3:100}],
+    content: '${4}'${5}
 });
 ]]></content>
 	<tabTrigger>ns</tabTrigger>
 	<scope>source.js</scope>
-	<description>Create new surface</description>
+	<description>Create new surface with size</description>
 </snippet>
