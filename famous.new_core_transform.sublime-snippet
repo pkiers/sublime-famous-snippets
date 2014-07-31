@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+var ${1:transform} = new Transform({${2}});
+]]></content>
+	<tabTrigger>nt</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

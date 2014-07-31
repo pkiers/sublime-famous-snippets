@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+var ${1:surface} = new Surface({
+    content: '${2}'${3}
+});
+]]></content>
+	<tabTrigger>ns</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

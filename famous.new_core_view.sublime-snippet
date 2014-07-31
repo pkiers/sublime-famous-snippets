@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+var ${1:view} = new View({${2}});
+]]></content>
+	<tabTrigger>nv</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

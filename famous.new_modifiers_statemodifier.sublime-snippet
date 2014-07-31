@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+var ${1:stateModifier} = new StateModifier({${2}});
+]]></content>
+	<tabTrigger>nms</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
