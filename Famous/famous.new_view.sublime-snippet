@@ -1,0 +1,33 @@
+<snippet>
+	<content><![CDATA[
+/*globals define*/
+define(function(require, exports, module) {
+    var View = require('famous/core/View');
+    var Surface = require('famous/core/Surface');
+    var Transform = require('famous/core/Transform');
+    var StateModifier = require('famous/modifiers/StateModifier');
+
+    /*
+     * @name ${1:MyView}
+     * @constructor
+     * @description ${2}
+     */
+
+    function ${1:MyView}() {
+        View.apply(this, arguments);
+     	${3}
+    }
+
+    ${1:MyView}.prototype = Object.create(View.prototype);
+    ${1:MyView}.prototype.constructor = ${1:MyView};
+
+    ${1:MyView}.DEFAULT_OPTIONS = {
+    };
+
+    module.exports = ${1:MyView};
+});
+]]></content>
+	<tabTrigger>view</tabTrigger>
+	<scope>source.js</scope>
+	<description>Create new view</description>
+</snippet>
