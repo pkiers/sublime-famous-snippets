@@ -54,11 +54,11 @@ For now only the most used classes are added as snippets.
 #### Miscellaneous
     sp    {mainContext}.setPerspective(1000);
     si    Timer.setInterval(function() {
-              ${2}
-          }, ${1:1000});
+              
+          }, {1000});
     st    Timer.setTimeout(function() {
-              ${2}
-          }, ${1:1000});
+              
+          }, {1000});
 
 ## Author
 Twitter: [pkiers](http://twitter.com/pkiers)
