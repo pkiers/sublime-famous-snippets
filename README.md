@@ -25,7 +25,7 @@ For now only the most used classes are added as snippets.
     rms     var StateModifier = require('famous/modifiers/StateModifier');
     rsi     var ImageSurface = require('famous/surfaces/ImageSurface');
     rvg     var GridLayout = require('famous/views/GridLayout');
-    rvsc    var ScrolLContainer = require('famous/views/ScrolLContainer');
+    rvsc    var ScrollContainer = require('famous/views/ScrollContainer');
     rvs     var Scrollview = require('famous/views/Scrollview');
 
 #### Instantiation
@@ -44,7 +44,7 @@ For now only the most used classes are added as snippets.
 			    dimensions: [1, 1]
 			});
 	rvsc	var {scrollContainer} = new ScrolLContainer({});
-	nvsc    var {scrollview} = new ScrollView({});
+	nvs     var {scrollview} = new Scrollview({});
 
 ## Author
 Twitter: [pkiers](http://twitter.com/pkiers)

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+var ${1:mainContext} = Engine.createContext();
+]]></content>
+	<tabTrigger>ne</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
