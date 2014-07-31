@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+${1:mainContext}.setPerspective(${2:1000});
+]]></content>
+	<tabTrigger>sp</tabTrigger>
+	<scope>source.js</scope>
+	<description>Set perspective</description>
+</snippet>

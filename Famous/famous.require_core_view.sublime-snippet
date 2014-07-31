@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+var View = require('famous/core/View');
+]]></content>
+	<tabTrigger>rv</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

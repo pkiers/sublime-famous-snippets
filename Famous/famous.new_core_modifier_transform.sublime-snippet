@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+var ${1:modifier} = new Modifier({
+	transform: Transform.${2}(${3})${4}
+});
+]]></content>
+	<tabTrigger>nm</tabTrigger>
+	<scope>source.js</scope>
+	<description>Create new modifier with transform</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+Timer.setInterval(function() {
+    ${2}
+}, ${1:1000});
+]]></content>
+	<tabTrigger>si</tabTrigger>
+	<scope>source.js</scope>
+	<description>Set interval</description>
+</snippet>

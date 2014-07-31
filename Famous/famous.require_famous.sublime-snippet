@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+var ${2} = require('famous/${1}/${2}');
+]]></content>
+	<tabTrigger>rf</tabTrigger>
+	<scope>source.js</scope>
+	<description>Require famous component</description>
+</snippet>

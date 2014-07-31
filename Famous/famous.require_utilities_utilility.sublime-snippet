@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+var Utility = require('famous/utilities/Utility');
+]]></content>
+	<tabTrigger>ruu</tabTrigger>
+	<scope>source.js</scope>
+	<description>Require utilities/Utility.</description>
+</snippet>

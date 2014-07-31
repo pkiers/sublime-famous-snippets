@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+var Surface = require('famous/core/Surface');
+]]></content>
+	<tabTrigger>rs</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
