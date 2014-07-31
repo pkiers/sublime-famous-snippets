@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 Timer.setInterval(function() {
-    ${2}
+    $0
 }, ${1:1000});
 ]]></content>
 	<tabTrigger>si</tabTrigger>
