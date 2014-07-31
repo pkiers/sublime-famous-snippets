@@ -4,4 +4,5 @@ var ${1:modifier} = new Modifier({${2}});
 ]]></content>
 	<tabTrigger>nm</tabTrigger>
 	<scope>source.js</scope>
+	<description>Create new modifier</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+var Timer = require('famous/utilities/Timer');
+]]></content>
+	<tabTrigger>rut</tabTrigger>
+	<scope>source.js</scope>
+	<description>Require utilities/Timer.</description>
+</snippet>

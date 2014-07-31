@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+var ${1} = require('${2}');
+]]></content>
+	<tabTrigger>rc</tabTrigger>
+	<scope>source.js</scope>
+	<description>Require custom component</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+var ${1:modifier} = new Modifier({
+	size: [${2:100}, ${3:100}]${4}
+});
+]]></content>
+	<tabTrigger>nm</tabTrigger>
+	<scope>source.js</scope>
+	<description>Create new modifier with size</description>
+</snippet>
