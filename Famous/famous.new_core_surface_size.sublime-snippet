@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 var ${1:surface} = new Surface({
-	size: [${2:100}. ${3:100}],
+	size: [${2:100}, ${3:100}],
     content: '${4}'${5}
 });
 ]]></content>
