@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-var ${1:renderNode} = new RenderNode({${2}});
-]]></content>
-	<tabTrigger>nr</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

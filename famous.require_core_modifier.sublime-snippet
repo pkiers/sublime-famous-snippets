@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-var Modifier = require('famous/core/Modifier');
-]]></content>
-	<tabTrigger>rm</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

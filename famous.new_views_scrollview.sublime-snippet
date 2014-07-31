@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-var ${1:scrollview} = new Scrollview({${2}});
-]]></content>
-	<tabTrigger>nvs</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

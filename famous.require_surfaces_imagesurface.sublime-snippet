@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-var ImageSurface = require('famous/surfaces/ImageSurface');
-]]></content>
-	<tabTrigger>rsi</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

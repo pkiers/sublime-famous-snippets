@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-var RenderNode = require('famous/core/RenderNode');
-]]></content>
-	<tabTrigger>rr</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

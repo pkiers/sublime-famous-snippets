@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-var ScrollContainer = require('famous/views/ScrollContainer');
-]]></content>
-	<tabTrigger>rvsc</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

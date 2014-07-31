@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-var Transform = require('famous/core/Transform');
-]]></content>
-	<tabTrigger>rt</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

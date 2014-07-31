@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-var GridLayout = require('famous/views/GridLayout');
-]]></content>
-	<tabTrigger>rvg</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

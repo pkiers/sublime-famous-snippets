@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-var Scrollview = require('famous/views/Scrollview');
-]]></content>
-	<tabTrigger>rvs</tabTrigger>
-	<scope>source.js</scope>
-</snippet>

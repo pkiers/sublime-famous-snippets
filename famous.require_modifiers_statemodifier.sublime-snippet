@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-var StateModifier = require('famous/modifiers/StateModifier');
-]]></content>
-	<tabTrigger>rms</tabTrigger>
-	<scope>source.js</scope>
-</snippet>
